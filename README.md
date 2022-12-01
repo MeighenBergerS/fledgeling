@@ -37,11 +37,7 @@ Please cite this [software](https://github.com/MeighenBergerS/fledgeling) using
 
 ## Installation <a name="installation"></a>
 
-Install using pip:
-```python
-pip install fledgeling
-```
-[The PyPi webpage](https://pypi.org/project/fledgeling/)
+Download the repo and make sure the paths are set correctly in the config file (and/or examples.)
 
 ## Usage <a name="usage"></a>
 
